@@ -5,9 +5,9 @@
         xmlns:cdv="http://cordova.apache.org/ns/1.0"
         id          = "ru.zaem.bot.fe"
         versionCode = "10"
-        version     = "1.0.0">
+        version     = "1.1.0">
 
-    <name>ТЕСТ. Лучшие займы без отказа</name>
+    <name>Лучшие займы без отказа</name>
 
     <description>
         При помощи своего сервиса мы собрали лучшие предложения по займам для Вас!
