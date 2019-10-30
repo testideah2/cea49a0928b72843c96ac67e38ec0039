@@ -5,9 +5,9 @@
         xmlns:cdv="http://cordova.apache.org/ns/1.0"
         id          = "ru.zaem.bot.fe"
         versionCode = "10"
-        version     = "1.1.0">
+        version     = "1.2.0">
 
-    <name>Лучшие займы без отказа</name>
+    <name>Подбор займов без отказа</name>
 
     <description>
         При помощи своего сервиса мы собрали лучшие предложения по займам для Вас!
@@ -40,23 +40,23 @@
 
 
     <platform name="android">
-        <icon src="res/android/icon/c665b84be62af47ea64c09f7e192e4bd.png" density="ldpi" />
-        <icon src="res/android/icon/873cdaadf45b10e822fe4b7ee4e5d8a5.png" density="mdpi" />
-        <icon src="res/android/icon/c5c8f1daf78fedfdd2e0f3bac7702ed2.png" density="hdpi" />
-        <icon src="res/android/icon/552c7b84925516a7cc77eb561d030cf9.png" density="xhdpi" />
-        <icon src="res/android/icon/44d3bdf43abe8c95ce85d0c198036519.png" density="xxhdpi" />
-        <icon src="res/android/icon/a0fb675724c26bfbfe33cb345acd6c8c.png" density="xxxhdpi" />
+        <icon src="res/android/icon/3907952ef93f1fc761f4c1bea7e0e81f.png" density="ldpi" />
+        <icon src="res/android/icon/f12fbf693e6936ad4785cbd25a847510.png" density="mdpi" />
+        <icon src="res/android/icon/4696b1b420ed316f0dc2926361bfcd19.png" density="hdpi" />
+        <icon src="res/android/icon/b7f418ff7b51d2a5eb46728fb4899225.png" density="xhdpi" />
+        <icon src="res/android/icon/5292441ba9a903bf2f2bfe7102da94e3.png" density="xxhdpi" />
+        <icon src="res/android/icon/3733d4f57dc1f8ab64d07ae0679071e7.png" density="xxxhdpi" />
 
-        <splash src="res/android/screen/66ab0f3f01ec7c8066c83c883800f18d.png" density="port-hdpi"/>
-        <splash src="res/android/screen/e12883053b85ae6f6315aeac30c1b35b.png" density="port-ldpi"/>
-        <splash src="res/android/screen/82fae5edb875fe09fecec0ba84e41b3c.png" density="port-mdpi"/>
-        <splash src="res/android/screen/65a79de9d460b10a8b4e0828b68596bf.png" density="port-xhdpi"/>
+        <splash src="res/android/screen/a3d8cea7101a6ca0d80c78c9dd313ed8.png" density="port-hdpi"/>
+        <splash src="res/android/screen/9a55d15b9e1151e4f128417d324fcfc6.png" density="port-ldpi"/>
+        <splash src="res/android/screen/6ee895e2b88bfeb4f26fe0e1481106c5.png" density="port-mdpi"/>
+        <splash src="res/android/screen/17c4108ff3979b2ca9e3aa3f98be360c.png" density="port-xhdpi"/>
     </platform>
 
     <platform name="ios">
-        <icon src="res/ios/icon/da96926c6a1f24e63944b2b36e1e96a9.png" width="180" height="180" />
+        <icon src="res/ios/icon/ed346ad1399acd622655dbf9d86699d9.png" width="180" height="180" />
         <icon src="res/ios/icon/69ea3b71277df8b3db9c7e868b3bfeb1.png" width="60" height="60" />
-        <icon src="res/ios/icon/6799cd1bf732fff8ddabcea9854adcb5.png" width="120" height="120" />
+        <icon src="res/ios/icon/c4fbe404726478e618264c9a9204e0ca.png" width="120" height="120" />
         <icon src="res/ios/icon/239b2fef76923ad3d7547e62a41ad039.png" width="76" height="76" />
         <icon src="res/ios/icon/4f972af8ca8f87a31f5f11833bb844de.png" width="152" height="152" />
         <icon src="res/ios/icon/080b097a681c1e89a542c4ecc55ceead.png" width="57" height="57" />
